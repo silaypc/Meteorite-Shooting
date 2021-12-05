@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+c:\users\hp\source\repos\meteorite shooting\meteorite shooting\kaynak.cpp(707): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  Meteorite Shooting.vcxproj -> C:\Users\HP\source\repos\Meteorite Shooting\Debug\Meteorite Shooting.exe
